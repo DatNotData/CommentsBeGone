@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CommentsBeGone:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CommentsBeGone_jar</output-path>
+    <root id="archive" name="CommentsBeGone.jar">
+      <element id="module-output" name="CommentsBeGone" />
+    </root>
+  </artifact>
+</component>
